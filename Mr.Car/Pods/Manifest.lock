@@ -1,0 +1,13 @@
+PODS:
+  - Bugtags (1.1.7)
+  - MJRefresh (3.1.0)
+
+DEPENDENCIES:
+  - Bugtags
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  Bugtags: 5522fa54c5a4db1d45a3fff3dd9def69e7172ee1
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+
+COCOAPODS: 0.39.0
